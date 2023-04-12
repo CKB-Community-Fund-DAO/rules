@@ -48,7 +48,7 @@ DAO 支持两种类型的治理：
 
 提案要么包含对资金的申请，要么包含对元规则的修改。如果纯粹只是做提案前期讨论，请不要以 [DIS] 开头作为标题。可以直接在本版块提问如： “大家觉得是否值得去越南定期组织线下社区聚会？”
 
-### 第二阶段：Voting Stage **— [on Metaforo](https://dao.ckb.community/)**
+### 第二阶段：Voting Stage — [on Metaforo](https://dao.ckb.community/)
 
 如果 Discussion Stage 通过后，发起者希望继续推动提案。那么此提案将进入第二个阶段: Voting Stage.  在这个阶段社区成员将最终对提案进行投票，并决定此提案是否通过。
 
