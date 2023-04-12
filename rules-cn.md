@@ -20,7 +20,7 @@ DAO 支持两种类型的治理：
 
 提案从提出到执行分三个阶段：**Discussion Stage, Voting Stage and Execution Stage**
 
-### 第一阶段：Discussion Stage — [on Nervos Talk(Discourse**)](https://talk.nervos.org/c/ckb-community-fund-dao/65)
+### 第一阶段：Discussion Stage — [on Nervos Talk(Discourse)](https://talk.nervos.org/c/ckb-community-fund-dao/65)
 
 **这个阶段主要有两个目的：**
 
