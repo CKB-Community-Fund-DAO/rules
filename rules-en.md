@@ -22,7 +22,7 @@ The CKB Community Fund DAO (hereinafter referred to as DAO) has an initial holdi
 
 There are three stages from proposal to implementation: **Discussion Stage, Voting Stage, and Execution Stage.**
 
-### Phase 1: Discussion **Stage — [on Nervos Talk(Discourse**)](https://talk.nervos.org/t/about-the-ckb-community-fund-dao-category/6869)
+### Phase 1: Discussion Stage — [on Nervos Talk(Discourse)](https://talk.nervos.org/t/about-the-ckb-community-fund-dao-category/6869)
 
 **This phase has two primary purposes:**
 
@@ -100,3 +100,7 @@ After the proposal is passed, it will enter the Execution Stage.
     - During the process, it is the applicant team's responsibility to keep the community informed of the progress of their work afterward, for example, regularly or after reaching a milestone, by reporting the progress of their work to the community in the forum starting with [Status Update]. Keeping good communication is the only way for the team to get help from the community and even find like-minded peers to move forward with.
     - Community members also have the right to monitor the effectiveness of the applicant team's work and use of funds and to comment or discuss in the forum.
 - In the case of proposals to modify meta-rules, the implementation of such proposals cannot start immediately after they are adopted because they may involve necessary system development and other factors. For such proposals, the management committee should give an implementation plan within two weeks and make regular status updates until final implementation.
+
+## Supplementary Rules 
+
+- [Any airdropping of assets to DAO voters is prohibited.](https://dao.ckb.community/thread/vot-ban-incentivized-voting-in-dao-43212) 
