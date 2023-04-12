@@ -20,7 +20,7 @@ DAO 支持两种类型的治理：
 
 提案从提出到执行分三个阶段：**Discussion Stage, Voting Stage and Execution Stage**
 
-### **第一阶段：**Discussion **Stage — [on Nervos Talk(Discourse**)](https://talk.nervos.org/c/ckb-community-fund-dao/65)
+### 第一阶段：Discussion Stage — [on Nervos Talk(Discourse**)](https://talk.nervos.org/c/ckb-community-fund-dao/65)
 
 **这个阶段主要有两个目的：**
 
@@ -48,7 +48,7 @@ DAO 支持两种类型的治理：
 
 提案要么包含对资金的申请，要么包含对元规则的修改。如果纯粹只是做提案前期讨论，请不要以 [DIS] 开头作为标题。可以直接在本版块提问如： “大家觉得是否值得去越南定期组织线下社区聚会？”
 
-### **第二阶段：**Voting Stage **— [on Metaforo](https://dao.ckb.community/)**
+### 第二阶段：Voting Stage **— [on Metaforo](https://dao.ckb.community/)**
 
 如果 Discussion Stage 通过后，发起者希望继续推动提案。那么此提案将进入第二个阶段: Voting Stage.  在这个阶段社区成员将最终对提案进行投票，并决定此提案是否通过。
 
@@ -98,3 +98,8 @@ DAO 支持两种类型的治理：
     - 在过程中，申请团队有义务向社区同步之后开展工作的进展，比如定期或达成某个 milestone 后，以 **[Status Update]** 为标题开头在论坛给社区汇报工作进展。保持良好的沟通才有利于团队得到社区的帮助，甚至找到志同道合的同伴一起前行。
     - 社区成员也有权利监督申请团队的工作效果和资金使用，并以论坛发帖的方式进行评论或探讨。
 - 如果是修改元规则提案，此类提案通过之后，由于可能会涉及必要的系统开发等因素，无法马上开始执行。对于此类提案，管理委员会应在二周之内给出实施计划，并定期进行状态更新，直到最终实施。
+
+## 补充规则
+
+- [禁止向 DAO 的投票者空投任何资产](https://dao.ckb.community/thread/vot-ban-incentivized-voting-in-dao-43212)。
+
