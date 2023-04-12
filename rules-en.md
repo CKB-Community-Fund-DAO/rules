@@ -101,6 +101,6 @@ After the proposal is passed, it will enter the Execution Stage.
     - Community members also have the right to monitor the effectiveness of the applicant team's work and use of funds and to comment or discuss in the forum.
 - In the case of proposals to modify meta-rules, the implementation of such proposals cannot start immediately after they are adopted because they may involve necessary system development and other factors. For such proposals, the management committee should give an implementation plan within two weeks and make regular status updates until final implementation.
 
-## Supplementary Rules 
+## Amendment
 
 - [Any airdropping of assets to DAO voters is prohibited.](https://dao.ckb.community/thread/vot-ban-incentivized-voting-in-dao-43212) 
