@@ -104,3 +104,4 @@ After the proposal is passed, it will enter the Execution Stage.
 ## Amendment
 
 - [Any airdropping of assets to DAO voters is prohibited.](https://dao.ckb.community/thread/vot-ban-incentivized-voting-in-dao-43212) 
+- [On Metaforo, votes are calculated based on the current Nervos DAO deposits held by the voters. Unlocked or withdrawn CKB will not be counted towards the voting weight](https://dao.ckb.community/thread/vot-changing-how-votes-are-calculated-43287).
