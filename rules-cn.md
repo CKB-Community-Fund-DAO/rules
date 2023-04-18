@@ -102,4 +102,4 @@ DAO 支持两种类型的治理：
 ## 修正案
 
 - [禁止向 DAO 的投票者空投任何资产](https://dao.ckb.community/thread/vot-ban-incentivized-voting-in-dao-43212)。
-
+- [Metaforo 上的票数根据投票者当前持有的 Nervos DAO 存款值计算，已解锁/提现的 CKB 不计入投票权重](https://dao.ckb.community/thread/vot-changing-how-votes-are-calculated-43287)。
