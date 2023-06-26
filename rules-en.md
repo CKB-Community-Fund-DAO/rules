@@ -105,3 +105,8 @@ After the proposal is passed, it will enter the Execution Stage.
 
 - [Any airdropping of assets to DAO voters is prohibited.](https://dao.ckb.community/thread/vot-ban-incentivized-voting-in-dao-43212) 
 - [On Metaforo, votes are calculated based on the current Nervos DAO deposits held by the voters. Unlocked or withdrawn CKB will not be counted towards the voting weight](https://dao.ckb.community/thread/vot-changing-how-votes-are-calculated-43287).
+- [Implementation of Staged Payments for Budgets Exceeding $10,000](https://dao.ckb.community/thread/vot-meta-rule-change-implement-staged-payments-for-proposals-with-a-budget-exceeding-10-000-10000-44725)
+    - Proposals with budgets exceeding $10,000 will be divided into multiple stages or timeframes for payment disbursement.
+    - The initial funding will be limited to 20% of the budget, with a maximum cap of $10,000.
+    - Subsequent payments will be determined based on specific milestones or goals. Proposals should clearly outline the estimated timeline, costs, and deliverables for each stage, with evaluations and confirmations conducted at the end of each stage.
+    - Upon receiving funding, proposers must regularly update the community on project progress and submit necessary progress reports at the end of each payment stage. Reports should include information on project milestones, goal achievement, and fund utilization, allowing the community to review and confirm the necessity of subsequent payments.
